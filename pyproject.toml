@@ -1,0 +1,14 @@
+[project]
+name = "extendipadapterclipvision"
+description = "This extension provides two nodes to use with my experimental [a/ip-adapter finetune](https://civitai.com/models/1233692?modelVersionId=1390253) for NoobAI-XL style transfer. [a/Here](https://github.com/vahlok-alunmid/reForge-preprocessor_bigG_448) is the counterpart extension for Reforge WebUI."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/vahlok-alunmid/ComfyUI-ExtendIPAdapterClipVision"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-ExtendIPAdapterClipVision"
+Icon = ""
